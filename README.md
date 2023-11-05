@@ -1,4 +1,4 @@
-# telescope-convert-word-case
+# telescope-convert-word-case.nvim
 * This is an integration plugin with [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 * This plugin can convert word case by lsp rename or just cword with preview.
 
